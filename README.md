@@ -1,51 +1,52 @@
 # 👋 Hi, I'm Meet Goti
 
-## 📱 iOS Developer | Swift • SwiftUI • UIKit
+## Senior iOS Developer | Swift • SwiftUI • UIKit
 
-I’m a passionate **iOS Developer** with strong expertise in building scalable, high-performance applications using **Swift**, **SwiftUI**, and **UIKit**.  
-I enjoy crafting clean architectures, smooth user experiences, and maintainable codebases.
+Experienced **iOS Developer** with 5+ years of hands-on expertise in designing, developing, and maintaining high-quality iOS applications. I specialize in building scalable architectures, delivering performance-driven solutions, and creating intuitive user experiences using modern Apple frameworks.
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🧠 Technical Expertise
 
-### 🚀 iOS Development
-- **Languages & UI:** Swift, SwiftUI, UIKit  
-- **Architecture:** MVVM, Design Patterns  
+### 📱 iOS Development
+- **Languages & UI Frameworks:** Swift, SwiftUI, UIKit  
+- **Architecture:** Clean Architecture, MVVM, SOLID principles, Design Patterns  
 - **Networking:** RESTful APIs, URLSession, Alamofire, Moya  
 - **Maps & Location:** MapKit, CoreLocation  
-- **Real-Time & Utilities:** Socket.IO, Barcode Scanning  
+- **Real-Time & Device Features:** Socket.IO, Barcode Scanning  
 - **Payments:** Stripe Payments, In-App Purchases  
-- **Media:** AVFoundation, AVPlayer, Video Processing  
-- **Local Storage:** Core Data, SwiftData, SQLite  
-- **Internationalization:** Localization  
-- **Backend & Linking:** Firebase, App Links, Deep Links
-
----
-  
-## 💻 Coding Skills
-- Clean Architecture with **MVVM**
-- Strong understanding of **Design Patterns**
-- Writing **clean, modular, and maintainable code**
-- Focus on **scalable app structure** and **separation of concerns**
+- **Media & Streaming:** AVFoundation, AVPlayer, Video Processing  
+- **Data Persistence:** Core Data, SwiftData, SQLite  
+- **Internationalization:** Localization & multi-language support  
+- **Backend Integration:** Firebase, App Links, Deep Links  
 
 ---
 
-## ❤️ Passion
-- Swift 🧡  
-- UIKit 💙  
-- Writing clean, reusable, and scalable code  
+## 💻 Coding Expertise
+- Architecting applications using **Clean Architecture with MVVM**
+- Applying **design patterns** to improve scalability and maintainability
+- Writing **clean, testable, and reusable code**
+- Ensuring proper **separation of concerns** and long-term code health
+- Optimizing app performance and memory usage
 
 ---
 
-## 📌 What I Focus On
-- Performance-optimised iOS apps  
-- Clean architecture & best practices  
-- User-centric UI/UX  
-- Continuous learning & improvement  
+## ❤️ Professional Passion
+- Deep passion for **Swift** and **UIKit**
+- Strong focus on code quality and architectural excellence
+- Continuous improvement through learning new iOS technologies
+
+---
+
+## 🎯 What I Bring to the Table
+- End-to-end iOS app development ownership
+- Experience delivering production-grade applications
+- Strong problem-solving and debugging skills
+- Collaboration with designers, backend teams, and stakeholders
+- Commitment to Apple’s Human Interface Guidelines
 
 ---
 
 ## 📫 Let’s Connect
-- 💼 Open to collaboration on iOS projects  
-- 🚀 Always exploring new Apple technologies  
+- Open to collaboration on impactful iOS projects
+- Always interested in challenging and innovative ideas

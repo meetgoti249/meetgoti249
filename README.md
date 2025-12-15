@@ -49,5 +49,3 @@ I enjoy crafting clean architectures, smooth user experiences, and maintainable 
 ## 📫 Let’s Connect
 - 💼 Open to collaboration on iOS projects  
 - 🚀 Always exploring new Apple technologies  
-
-⭐ *If you like my work, feel free to star my repositories!*
